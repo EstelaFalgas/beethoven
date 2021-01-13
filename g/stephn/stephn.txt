@@ -1,0 +1,78 @@
+
+鈴ちゃんの MIDI ファイルをダウンロードくださいましてありがとうございます。
+
+【パッケージ名】
+ベートーヴェ作曲 祝典劇「シュテファン王」作品１１７
+
+【解説】
+１８１１年暮れにアテネの廃墟と共にきわめて短期間で作曲された祝典劇です。
+
+【ファイルの内容】
+stephn.asx	GM用連続再生ファイル(テキストファイル)
+stephn.txt	説明ファイル
+
+stephn0.mid	第曲
+stephn1.mid	第1曲
+stephn2.mid	第2曲
+stephn3.mid	第3曲
+stephn4.mid	第4曲
+stephn5.mid	第5曲
+stephn6.mid	第6曲
+stephn7.mid	第7曲
+stephn8.mid	第8曲
+stephn9.mid	第9曲
+
+MIDI ファイルはすべて General MIDI Type 1.0
+
+【作成日付】
+stephn0.mid	ver 1.0 2002/07/04
+		ver 1.1 2008/09/18
+stephn1.mid	ver 1.0 2010/10/09
+stephn2.mid	ver 1.0 2010/10/10
+stephn3.mid	ver 1.0 2010/10/17
+stephn4.mid	ver 1.0 2010/10/30
+stephn5.mid	ver 1.0 2010/10/31
+stephn6.mid	ver 1.0 2010/11/06
+stephn7.mid	ver 1.0 2010/11/07
+stephn8.mid	ver 1.0 2010/11/13
+stephn9.mid	ver 1.0 2010/11/14
+
+【楽器編成】
+フルート、オーボエ、クラリネット、ファゴット、コントラファゴット(Bassoon)、
+ホルン（変ホ長調、ハ長調）、トランペット、ティンパニ
+ヴァイオリン１（String）、ヴァイオリン２（String）、ビオラ（String）、
+チェロ（String）、コントラバス(String)、
+ピッチカート(StrPizz)
+合唱
+
+【原本スコア】
+(序曲)
+Eulenburg
+BEETHOVEN KONIG STEPHAN Overture Op.117
+Edition Eulenburg No.631
+
+(序曲以外)
+PDF 版 旧ベートーヴェン全集
+
+【注意】
+(1)動作確認
+本ファイルは、Windows95/98, Me, WindowsNT4.0, Windows2000 で
+動作を確認しています。それ以外のＯＳについては不明です。
+
+(2)asxファイル
+asx ファイルは、マルチメディアファイルへのショートカットを
+定義するファイルです。これを開くことにより全曲の連続再生が
+可能になります。
+なお、このファイルは Microsoft Media Player 6.0 以降で
+使用できます。
+Media Player 7.0 で開くと、曲名が記録されるようです。
+
+(3)圧縮形式
+本パッケージは、LHA version 2.13 互換の形式で圧縮しています。
+すべて小文字のファイル名で格納していますが、解凍ソフトによっては
+大文字で解凍される場合があります。
+
+【エンハンスドレベルMIDIとは】
+エンハンスドレベルMIDIとは、General MIDI の下位互換の MIDI です。
+チャネルの 1 ～ 10 のみを使用する MIDI です。
+チャネル 11 ～ 16 を使用しない点を除いて General MIDI と同じです。

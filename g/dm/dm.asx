@@ -1,0 +1,23 @@
+<asx version = "3.0" previewmode = "no">
+<title>ベートーヴェン ４手のための３つの行進曲 作品45</title>
+<copyright>鈴ちゃん</copyright>
+<author>鈴ちゃん</author>
+<entry>
+  <title>第1曲</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="dm_1.mid"/>
+</entry>
+<entry>
+  <title>第2曲</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="dm_2.mid"/>
+</entry>
+<entry>
+  <title>第3曲</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="dm_3.mid"/>
+</entry>
+</asx>

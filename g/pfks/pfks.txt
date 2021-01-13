@@ -1,0 +1,42 @@
+
+鈴ちゃんの MIDI ファイルをダウンロードしてくださいましてありがとうございます。
+
+【パッケージ名】
+ベートーヴェン作曲 アリア「口づけの試練」WoO 89
+
+【解説】
+この曲は、まだ若い１７７０～７２年ごろの作品と見られています。
+当時人気のバス歌手だった、ヨーゼフ・ルックスのために
+作られたと考えられています。
+
+【ファイルの内容】
+pfks.asx    	連続ファイル(テキストファイル)
+pfks.txt    	説明ファイル
+
+pfks.mid    	アリア
+
+MIDI ファイルはすべて General MIDI Format 1.0
+
+【作成日付】
+pfks.mid    	ver 1.0 2008/10/29
+
+【原本スコア】
+Henle Verlag
+BEETHOVEN WERKE
+Arien, Duett, Terzett
+Wissenschaftliche Gesamtausgabe mit Kritischem Bericht, Abteilung X, Band 3, Leinen
+(新ベートーヴェン全集 X/3 アリア、二重唱、三重唱)
+(HN 4382)
+
+【注意】
+(1)動作確認
+本ファイルは、Windows95/98, Me, WindowsNT4.0, Windows2000, XP で
+動作を確認しています。それ以外のＯＳについては不明です。
+
+(2)asxファイル
+asx ファイルは、マルチメディアファイルへのショートカットを
+定義するファイルです。これを開くことにより全曲の連続再生が
+可能になります。
+なお、このファイルは Microsoft Media Player 6.0 以降で
+使用できます。
+Media Player 7.0～ で開くと、曲名が記録されるようです。

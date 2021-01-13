@@ -1,0 +1,45 @@
+
+鈴ちゃんの MIDI ファイルをダウンロードしてくださいましてありがとうございます。
+
+【パッケージ名】
+ベートーヴェン作曲 レオポルド２世の即位を祝うカンタータ WoO 88
+
+【解説】
+WoO 87(kant1) を参照してください。
+
+【ファイルの内容】
+kant2.asx    	連続ファイル(テキストファイル)
+kant2.txt    	説明ファイル
+kant2_1.mid	第1曲
+kant2_2.mid	第2曲
+kant2_3.mid	第3曲
+kant2_4.mid	第4曲
+kant2_5.mid	第5曲
+
+MIDI ファイルはすべて General MIDI Format 1.0
+
+【作成日付】
+kant2_1.mid    	ver 1.0 2007/06/13
+kant2_2.mid    	ver 1.0 2007/07/05
+kant2_3.mid    	ver 1.0 2007/07/06
+kant2_4.mid    	ver 1.0 2007/07/20
+kant2_5.mid    	ver 1.0 2007/08/14
+
+【原本スコア】
+BEETHOVEN WERKE
+Wissenschaftliche Gesamtausgabe mit Kritischem Bericht, Leinen, Abteilung X, Band 1.
+(新ベートーヴェン全集Ｘ／１)
+HN 4362
+
+【注意】
+(1)動作確認
+本ファイルは、Windows95/98, Me, WindowsNT4.0, Windows2000, XP で
+動作を確認しています。それ以外のＯＳについては不明です。
+
+(2)asxファイル
+asx ファイルは、マルチメディアファイルへのショートカットを
+定義するファイルです。これを開くことにより全曲の連続再生が
+可能になります。
+なお、このファイルは Microsoft Media Player 6.0 以降で
+使用できます。
+Media Player 7.0～ で開くと、曲名が記録されるようです。

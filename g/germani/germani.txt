@@ -1,0 +1,41 @@
+
+鈴ちゃんの MIDI ファイルをダウンロードしてくださいましてありがとうございます。
+
+【パッケージ名】
+ベートーヴェン作曲 「良い知らせ」の終曲「ゲルマーニア」 WoO 94
+
+【解説】
+この曲は１８１４年に作曲された、
+トライチュケのジングシュピール「良い知らせ」
+のための終曲です。
+
+【ファイルの内容】
+germani.asx    	連続再生ファイル(テキストファイル)
+germani.txt    	説明ファイル
+
+germani.mid	終曲 「ゲルマーニア」
+
+MIDI ファイルはすべて General MIDI Format 1.0
+
+【作成日付】
+germani.mid	ver 1.0 2004/05/03
+
+【原本スコア】
+G.Henle Verlag
+BEETHOVEN WERKE IX/7
+Musik zu "Egmont" und andere Schauspielmusiken
+(新ベートーヴェン全集 IX エグモントとその他の舞台音楽)
+HN 4352
+
+【注意】
+(1)動作確認
+本ファイルは、Windows95/98, Me, WindowsNT4.0, Windows2000, XP で
+動作を確認しています。それ以外のＯＳについては不明です。
+
+(2)asxファイル
+asx ファイルは、マルチメディアファイルへのショートカットを
+定義するファイルです。これを開くことにより全曲の連続再生が
+可能になります。
+なお、このファイルは Microsoft Media Player 6.0 以降で
+使用できます。
+Media Player 7.0～ で開くと、曲名が記録されるようです。

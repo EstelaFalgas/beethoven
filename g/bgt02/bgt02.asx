@@ -1,0 +1,17 @@
+<asx version = "3.0" previewmode = "no">
+<title>ベートーベン ２つのバガテル</title>
+<copyright>鈴ちゃん</copyright>
+<author>鈴ちゃん</author>
+<entry>
+  <title>第１曲</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="bgt02_01.mid"/>
+</entry>
+<entry>
+  <title>第２曲</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="bgt02_02.mid"/>
+</entry>
+</asx>

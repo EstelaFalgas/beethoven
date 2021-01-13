@@ -1,0 +1,51 @@
+
+鈴ちゃんの MIDI ファイルをダウンロードしてくださいましてありがとうございます。
+
+【パッケージ名】
+ベートーヴェン作曲 マンドリンとピアノのための小品 WoO44
+
+
+【ファイルの内容】
+ms2.asx		連続再生ファイル(テキストファイル)
+ms2.txt		説明ファイル
+
+ms2_1.mid	第1曲(WoO44a, Hess43)
+ms2_2.mid	第2曲(WoO44b, Hess45)
+
+MIDI ファイルはすべて General MIDI Format 1.0
+
+【作成日付】
+ms2_1.mid	ver 1.0 2003/07/20
+ms2_2.mid	ver 1.0 2003/07/20
+
+【楽器編成】
+マンドリン、ピアノ
+
+【原本スコア】
+G. Henle Verlag
+BEETHOVEN WERKE
+Abteilung V, Band 4
+Werke fur Klavier und ein Instrument
+ - Horn [Violoncello], Flote [Violine],
+ Mandoline (mit Kritischem Bericht)
+（新ベートーヴェン全集 V/4
+　ピアノと１つの楽器のための作品集）
+HN 4165
+
+【注意】
+(1)動作確認
+本ファイルは、Windows95/98, Me, WindowsNT4.0, Windows2000, XP で
+動作を確認しています。それ以外のＯＳについては不明です。
+
+(2)asxファイル
+asx ファイルは、マルチメディアファイルへのショートカットを
+定義するファイルです。これを開くことにより全曲の連続再生が
+可能になります。
+なお、このファイルは Microsoft Media Player 6.0 以降で
+使用できます。
+Media Player 7.0～ で開くと、曲名が記録されるようです。
+
+(3)圧縮形式
+本パッケージは、LHA version 2.13 互換の形式で圧縮しています。
+すべて小文字のファイル名で格納していますが、解凍ソフトによっては
+大文字で解凍される場合があります。

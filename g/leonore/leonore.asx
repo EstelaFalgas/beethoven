@@ -1,0 +1,23 @@
+<asx version = "3.0" previewmode = "no">
+<title>ベートーヴェン レオノーレ序曲集</title>
+<copyright>鈴ちゃん</copyright>
+<author>鈴ちゃん</author>
+<entry>
+  <title>第1番 作品138</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="leonore1.mid"/>
+</entry>
+<entry>
+  <title>第2番 作品72</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="leonore2.mid"/>
+</entry>
+<entry>
+  <title>第3番 作品72</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="leonore3.mid"/>
+</entry>
+</asx>

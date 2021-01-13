@@ -1,0 +1,72 @@
+
+鈴ちゃんの MIDI ファイルをダウンロードしてくださいましてありがとうございます。
+
+【パッケージ名】
+ベートーヴェ作曲 バレエ「プロメテウスの創造物」Hess90
+
+【ファイルの内容】
+promep.asx	連続再生ファイル(テキストファイル)
+promep.txt	説明ファイル
+
+promep00.mid	序曲～導入部「嵐」
+promep01.mid	第１曲
+promep02.mid	第２曲
+promep03.mid	第３曲
+promep04.mid	第４曲（ここから第２幕）
+promep05.mid	第５曲
+promep06.mid	第６曲
+promep07.mid	第７曲
+promep08.mid	第８曲
+promep09.mid	第９曲
+promep10.mid	第１０曲「パストラーレ」
+promep11.mid	第１１曲「ジョーヤのコロ」
+promep12.mid	第１２曲「ジョーヤのソロ」
+promep13.mid	第１３曲「テルツェティーニ・グロテスキ」
+promep14.mid	第１４曲「カッセンティーニ夫人のソロ」
+promep15.mid	第１５曲「ヴィガノのコロとソロ」
+promep16.mid	第１６曲「フィナーレ」
+
+MIDI ファイルはすべて General MIDI Format 1.0
+
+【作成日付】
+promep00.mid	ver 1.0 2005/12/16
+promep01.mid	ver 1.0 2005/12/21
+promep02.mid	ver 1.0 2005/12/22
+promep03.mid	ver 1.0 2005/12/22
+promep04.mid	ver 1.0 2005/12/27
+promep05.mid	ver 1.0 2005/12/29
+promep06.mid	ver 1.0 2005/12/29
+promep07.mid	ver 1.0 2006/01/13
+		ver 1.1 2014/04/25
+promep08.mid	ver 1.0 2006/01/10
+promep09.mid	ver 1.0 2006/01/24
+promep10.mid	ver 1.0 2006/01/24
+promep11.mid	ver 1.0 2006/01/26
+promep12.mid	ver 1.0 2006/01/31
+promep13.mid	ver 1.0 2006/02/03
+promep14.mid	ver 1.0 2006/02/08
+promep15.mid	ver 1.0 2006/02/14
+promep16.mid	ver 1.0 2006/02/17
+
+【楽器編成】
+グランドピアノ
+
+【原本スコア】
+
+【注意】
+(1)動作確認
+本ファイルは、Windows95/98, Me, WindowsNT4.0, Windows2000 で
+動作を確認しています。それ以外のＯＳについては不明です。
+
+(2)asxファイル
+asx ファイルは、マルチメディアファイルへのショートカットを
+定義するファイルです。これを開くことにより全曲の連続再生が
+可能になります。
+なお、このファイルは Microsoft Media Player 6.0 以降で
+使用できます。
+Media Player 7.0 で開くと、曲名が記録されるようです。
+
+(3)圧縮形式
+本パッケージは、LHA version 2.13 互換の形式で圧縮しています。
+すべて小文字のファイル名で格納していますが、解凍ソフトによっては
+大文字で解凍される場合があります。

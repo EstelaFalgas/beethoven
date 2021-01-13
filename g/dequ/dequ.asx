@@ -1,0 +1,23 @@
+<asx version = "3.0" previewmode = "no">
+<title>ベートーヴェン ３つのエクヴァーレ WoO 30</title>
+<copyright>鈴ちゃん</copyright>
+<author>鈴ちゃん</author>
+<entry>
+  <title>第１曲</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="dequ_1.mid"/>
+</entry>
+<entry>
+  <title>第２曲</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="dequ_2.mid"/>
+</entry>
+<entry>
+  <title>第３曲</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="dequ_3.mid"/>
+</entry>
+</asx>

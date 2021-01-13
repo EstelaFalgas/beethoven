@@ -1,0 +1,17 @@
+<asx version = "3.0" previewmode = "no">
+<title>ベートーヴェン ２つのロンド 作品51</title>
+<copyright>鈴ちゃん</copyright>
+<author>鈴ちゃん</author>
+<entry>
+  <title>ロンド１ ハ長調</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="rondo1.mid"/>
+</entry>
+<entry>
+  <title>ロンド２ ト長調</title>
+  <copyright>鈴ちゃん</copyright>
+  <author>鈴ちゃん</author>
+  <ref href="rondo2.mid"/>
+</entry>
+</asx>

@@ -1,0 +1,61 @@
+
+鈴ちゃんの MIDI ファイルのご利用ありがとうございます。
+
+【パッケージ名】
+ベートーヴェン作曲 ノットゥルノ ニ長調 作品42
+
+【解説】
+この曲は１８０３年に、セレナーデニ長調作品８を、
+フランツ・クサーファー・クラインハインツが編曲し、
+ベートーヴェンが手を加えたものとされています。
+楽曲的には、原曲そのままとなっています。
+
+【ファイルの内容】
+nottur.asx 	連続再生ファイル(テキストファイル)
+nottur.txt 	説明ファイル
+
+nottur_1.mid	第1楽章
+nottur_2.mid	第2楽章
+nottur_3.mid	第3楽章
+nottur_4.mid	第4楽章
+nottur_5.mid	第5楽章
+nottur_6.mid	第6楽章
+nottur_7.mid	第7楽章
+
+MIDI ファイルはすべて General MIDI Format 1.0
+
+【作成日付】
+nottur_1.mid	ver 1.0 2008/09/28
+nottur_2.mid	ver 1.0 2008/09/29
+nottur_3.mid	ver 1.0 2008/10/03
+nottur_4.mid	ver 1.0 2008/10/04
+nottur_5.mid	ver 1.0 2008/10/05
+nottur_6.mid	ver 1.0 2008/10/08
+nottur_7.mid	ver 1.0 2008/10/11
+
+【楽器編成】
+ヴィオラ、ピアノ
+
+【原本スコア】
+Scotto
+Ludwig van Beethoven
+Notturno nach der Serenade op. 8, op. 42
+ED 10091
+
+【注意】
+(1)動作確認
+本ファイルは、Windows98, WindowsNT4.0, Windows2000, WindowsXP で
+動作を確認しています。それ以外のＯＳについては不明です。
+
+(2)asxファイル
+asx ファイルは、マルチメディアファイルへのショートカットを
+定義するファイルです。これを開くことにより全曲の連続再生が
+可能になります。
+なお、このファイルは Microsoft Media Player 6.0 以降で
+使用できます。
+Media Player 7.0 で開くと、曲名が記録されるようです。
+
+(3)圧縮形式
+本パッケージは、LHA version 2.13 互換の形式で圧縮しています。
+すべて小文字のファイル名で格納していますが、解凍ソフトによっては
+大文字で解凍される場合があります。
